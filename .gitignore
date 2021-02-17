@@ -110,12 +110,12 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# Spyder drf-mongo-api settings
+.spyderdrf-mongo-api
+.spydrf-mongo-api
 
-# Rope project settings
-.ropeproject
+# Rope drf-mongo-api settings
+.ropedrf-mongo-api
 
 # mkdocs documentation
 /site
